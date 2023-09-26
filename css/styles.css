@@ -72,14 +72,12 @@ ul, li {
 .main-top {
     background-color: #2E2F42;
     align-content: center;
-
 }
 
 /*MAIN-SECTION BUTTON*/
 
 
 button {
-
     /* Button Text */
     font-family: Roboto;
     font-size: 16px;
