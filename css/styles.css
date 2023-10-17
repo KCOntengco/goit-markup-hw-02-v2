@@ -72,6 +72,7 @@ ul, li {
 .main-top {
     background-color: #2E2F42;
     align-content: center;
+
 }
 
 /*MAIN-SECTION BUTTON*/
@@ -176,6 +177,7 @@ p {
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.64px;
+    border-color: none;
     border-radius: 4px;
 }
 
@@ -210,6 +212,9 @@ p {
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;
+    width: 1440px;
+    height: 312px;
+    flex-shrink: 0;
 }
 
 .footer p {
@@ -226,6 +231,8 @@ p {
     /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    padding-top: 140;
+    padding-left: 156;
 }
 
 /*END OF FOOTER*/
